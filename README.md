@@ -3,7 +3,7 @@ steps for setup
 2. open the terminal 
 3. run -> npm install
 4. run -> npm run dev 
-5. click on 
+5. click on host link
 
 
 
